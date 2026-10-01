@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.16.1",
-    "@nuxtjs/mdc": "^0.16.1",
+    "@nuxtjs/mdc": "^0.22.1",
     "@shikijs/langs": "^3.2.1",
     "@sqlite.org/sqlite-wasm": "3.49.1-build2",
     "@webcontainer/env": "^1.1.1",
@@ -114,7 +114,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250319.0",
     "@nuxt/content": "link:.",
-    "@nuxt/devtools": "^2.3.1",
+    "@nuxt/devtools": "^3.3.1",
     "@nuxt/eslint-config": "^1.2.0",
     "@nuxt/kit": "^3.16.1",
     "@nuxt/module-builder": "^0.8.4",
@@ -135,7 +135,7 @@
     "nuxt": "^3.16.1",
     "release-it": "^18.1.2",
     "typescript": "5.8.2",
-    "vitest": "^3.0.9",
+    "vitest": "^5.0.3",
     "vue-tsc": "^2.2.8",
     "wrangler": "^4.2.0"
   },
